@@ -1,1 +1,1 @@
-# LC_assignment_UI
+# LabCorp Careers Test Automation
