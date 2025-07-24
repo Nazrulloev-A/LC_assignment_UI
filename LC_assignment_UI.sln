@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC_assignment_UI", "LC_assignment_UI\LC_assignment_UI.csproj", "{14F02A1E-B889-441B-83D2-0BE6C326F867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F02A1E-B889-441B-83D2-0BE6C326F867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F02A1E-B889-441B-83D2-0BE6C326F867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F02A1E-B889-441B-83D2-0BE6C326F867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F02A1E-B889-441B-83D2-0BE6C326F867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2B5D69-6DD0-4E92-8ADD-9B240E71EC9B}
+	EndGlobalSection
+EndGlobal
