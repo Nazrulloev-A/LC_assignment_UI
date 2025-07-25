@@ -158,6 +158,30 @@ namespace LC_assignment_UI.Features
 #line 11
     await testRunner.ThenAsync("user select and browse to the position", ((string)(null)), ((global::Reqnroll.Table)(null)), "Then ");
 #line hidden
+#line 12
+ await testRunner.AndAsync("user should verify the job title contains selected position", ((string)(null)), ((global::Reqnroll.Table)(null)), "And ");
+#line hidden
+#line 13
+    await testRunner.AndAsync("user should verify the job location is displayed", ((string)(null)), ((global::Reqnroll.Table)(null)), "And ");
+#line hidden
+#line 14
+    await testRunner.AndAsync("user should verify the job ID is displayed", ((string)(null)), ((global::Reqnroll.Table)(null)), "And ");
+#line hidden
+#line 15
+ await testRunner.AndAsync("user should verify the Back to serch results link button is displayed", ((string)(null)), ((global::Reqnroll.Table)(null)), "And ");
+#line hidden
+#line 16
+    await testRunner.AndAsync("user should verify the Back to serch results link button is displayed", ((string)(null)), ((global::Reqnroll.Table)(null)), "And ");
+#line hidden
+#line 17
+    await testRunner.AndAsync("user should verify the job description are listed", ((string)(null)), ((global::Reqnroll.Table)(null)), "And ");
+#line hidden
+#line 18
+    await testRunner.WhenAsync("user click Return to Job Search", ((string)(null)), ((global::Reqnroll.Table)(null)), "When ");
+#line hidden
+#line 19
+    await testRunner.AndAsync("user should be redirected to the job search page", ((string)(null)), ((global::Reqnroll.Table)(null)), "And ");
+#line hidden
             }
             await this.ScenarioCleanupAsync();
         }
