@@ -114,7 +114,7 @@ dotnet test -- RunConfiguration.Headless=true
 | **BaseUrl**        | "https://www.labcorp.com"            |
 | **Browser**        | "chromium"                           |
 | **Viewport Size**  | 1920x1080                            |
-| **Headless**       | false (set to true for CI pipelines) |
+| **Headless**       | false  |
 | **Timeouts**       | 30s explicit waits, 60s page load    |
 
 ---
